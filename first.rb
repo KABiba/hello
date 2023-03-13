@@ -1,2 +1,2 @@
-puts "Hello people!"
+puts ('Hello people!')
 print "Hello world!"
